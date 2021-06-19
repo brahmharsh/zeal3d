@@ -143,21 +143,17 @@ export default function Home() {
           </div>
         </div>
       </section>
-      {/* 
-      <section style={{padding:100}}>
+      
+      <section>
+        <div style={{padding:'0px 100px 0px 100px'}}>
         <h2>Property Selection Process</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod tempor incididunt ut labore et.</p>
-        <div style={{display:'flex'}}>
-          <div style={{display:'flex', flexDirection:'column', alignItems:'start'}}>
-            <img src="/assets/process/1.svg" style={{height:'7vw', marginBottom:50, marginLeft:10}} />
-            <img src="/assets/process/2.svg" style={{height:'1vw', marginBottom:-17, marginLeft:-5}} />
-            <img src="/assets/process/3.svg" style={{height:'9.7vw'}} />
-          </div>
         </div>
-      </section> */}
+        <img src="assets/process.png" style={{width: '100%'}} />
+      </section>
 
       <section>
-        <div style={{ padding: '120px 77px 0px 77px' }}>
+        <div style={{ padding: '70px 77px 0px 77px' }}>
           <h2>Localities</h2>
           <p style={{ lineHeight: 1.5, fontSize: 18 }}>Lorem ipsum dolor sit amet, consectetur adipisc elit, sed do eiusmod <br></br>tempor incididunt ut labore et.</p>
         </div>
